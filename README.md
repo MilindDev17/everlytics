@@ -1,6 +1,5 @@
 # everlytics
-#NPm
-
+.NPm
 E:\bootstrap\everlytics>npm install html-webpack-plugin --save-dev
 npm WARN babel-loader@8.0.5 requires a peer of @babel/core@^7.0.0 but none is installed. You must install peer dependencies yourself.
 npm WARN everlytics@1.0.0 No description
