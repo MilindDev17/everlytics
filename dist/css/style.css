@@ -1,0 +1,24 @@
+*{
+    background: white;
+    margin: 0px;
+}
+
+.powerOut {
+    font-size: 10px;
+          }
+
+.vl {
+    border-left: 6px solid darkgoldenrod;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+  }
+.legend {
+    font-size: 10px;
+}
+.poweroutSecond {
+    font-weight: bold;
+    font-size:15px
+}
